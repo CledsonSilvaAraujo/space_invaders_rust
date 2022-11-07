@@ -1,0 +1,13 @@
+/home/cledson/Udemy/Rust/invaders/target/debug/deps/lewton-8ceed0cf993530a9.rmeta: /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs
+
+/home/cledson/Udemy/Rust/invaders/target/debug/deps/lewton-8ceed0cf993530a9.d: /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs
+
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs:

@@ -1,0 +1,11 @@
+/home/cledson/Udemy/Rust/invaders/target/debug/deps/parking_lot_core-f82db2c3218a2e4b.rmeta: /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/lib.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/parking_lot.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/spinwait.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/util.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/word_lock.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/linux.rs
+
+/home/cledson/Udemy/Rust/invaders/target/debug/deps/parking_lot_core-f82db2c3218a2e4b.d: /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/lib.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/parking_lot.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/spinwait.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/util.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/word_lock.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/linux.rs
+
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/lib.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/parking_lot.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/spinwait.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/mod.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/util.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/word_lock.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/linux.rs:

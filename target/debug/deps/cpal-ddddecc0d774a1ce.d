@@ -1,0 +1,13 @@
+/home/cledson/Udemy/Rust/invaders/target/debug/deps/cpal-ddddecc0d774a1ce.rmeta: /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/lib.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/error.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/alsa/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/alsa/enumerate.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/null/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/platform/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/samples_formats.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/traits.rs
+
+/home/cledson/Udemy/Rust/invaders/target/debug/deps/cpal-ddddecc0d774a1ce.d: /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/lib.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/error.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/alsa/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/alsa/enumerate.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/null/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/platform/mod.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/samples_formats.rs /home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/traits.rs
+
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/lib.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/error.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/mod.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/alsa/mod.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/alsa/enumerate.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/host/null/mod.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/platform/mod.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/samples_formats.rs:
+/home/cledson/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.13.5/src/traits.rs:
